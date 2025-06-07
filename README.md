@@ -51,6 +51,11 @@ During fuzzing with `YieldERC20`, we discovered that after a sequence of transac
 
 - [Foundry](https://book.getfoundry.sh/)
 - Solidity ^0.8.*
+- Install Lib
+```
+forge install foundry-rs/forge-std
+forge install OpenZeppelin/openzeppelin-contracts
+```
 
 ## Running the Tests
 
